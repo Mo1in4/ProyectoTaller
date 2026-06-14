@@ -1,0 +1,17 @@
+# Sistema de Consulta de ASADAS - Costa Rica
+# Dependencias del proyecto
+
+# Conversión de coordenadas CRTM05 → WGS84
+pyproj>=3.6.0
+
+# Generación de mapas con OpenStreetMap
+folium>=0.14.0
+
+# La biblioteca estándar de Python provee:
+# - struct       → manejo de archivos binarios
+# - socket       → comunicación TCP/IP
+# - threading    → hilos concurrentes
+# - tkinter      → interfaz gráfica (incluida en Python)
+# - json         → procesamiento de datos del endpoint
+# - urllib       → descarga desde el endpoint REST
+# - argparse     → parámetros de línea de comandos
